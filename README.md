@@ -14,4 +14,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/rupashreeroy/DSAInPythonLeetcode/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rupashreeroy/DSAInPythonLeetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Hash Table
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rupashreeroy/DSAInPythonLeetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Sorting
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rupashreeroy/DSAInPythonLeetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rupashreeroy/DSAInPythonLeetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
