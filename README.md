@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/rupashreeroy/DSAInPythonLeetcode/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/rupashreeroy/DSAInPythonLeetcode/tree/master/0412-fizz-buzz) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/rupashreeroy/DSAInPythonLeetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/rupashreeroy/DSAInPythonLeetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
