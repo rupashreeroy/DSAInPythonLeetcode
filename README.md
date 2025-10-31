@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/rupashreeroy/DSAInPythonLeetcode/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/rupashreeroy/DSAInPythonLeetcode/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/rupashreeroy/DSAInPythonLeetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rupashreeroy/DSAInPythonLeetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/rupashreeroy/DSAInPythonLeetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/rupashreeroy/DSAInPythonLeetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -34,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rupashreeroy/DSAInPythonLeetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/rupashreeroy/DSAInPythonLeetcode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/rupashreeroy/DSAInPythonLeetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/rupashreeroy/DSAInPythonLeetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
