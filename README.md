@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rupashreeroy/DSAInPythonLeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rupashreeroy/DSAInPythonLeetcode/tree/main/0027-remove-element/) | Easy |
 | [0054-spiral-matrix](https://github.com/rupashreeroy/DSAInPythonLeetcode/tree/master/0054-spiral-matrix) |
+| [1470-shuffle-the-array](https://github.com/rupashreeroy/DSAInPythonLeetcode/tree/master/1470-shuffle-the-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rupashreeroy/DSAInPythonLeetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/rupashreeroy/DSAInPythonLeetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
